@@ -1,6 +1,4 @@
 # U Develop It
-
-  ## Table of Contents
   
   ## Description
   A simple MySQL database for a voting system. Portfolio piece to showcase back-end skills.
