@@ -2,7 +2,7 @@
   
   ## Description
   A simple MySQL database for a voting system. Portfolio piece to showcase back-end skills.
-  All code is exclusively backend. Uses a MySQL database with multiple table and an ExpressJS server
+  All code is exclusively backend. Uses a MySQL database with multiple tables and an ExpressJS server
 
   ## Contributors
   Quinn Pucci
